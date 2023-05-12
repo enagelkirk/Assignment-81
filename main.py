@@ -26,6 +26,7 @@ class Truck(Vehicle):
     print(f"Your truck has a bed length of {self.bed_length}ft.")
 
 print("Welcome to the Virtual Garage.")
+
 def get_menu_option(): 
 
   menu_options = ('c', 't', 'q')
